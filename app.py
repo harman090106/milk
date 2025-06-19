@@ -1,4 +1,3 @@
-import pymongo.mongo_client
 import streamlit as st
 from datetime import datetime
 from dotenv import load_dotenv
